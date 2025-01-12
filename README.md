@@ -8,9 +8,9 @@
 ## I'm a self taught passionate Software Engineer
 
 - 🌱 I'm currently enhancing my software engineering proficiency by engaging in diverse frontend and backend projects.
-- 🥅 2024 Goals: 
-- Code, Eat and Sleep.
-- Repeat the above.
+- 🥅 2025 Goals: 
+- Code, Eat,Sleep,network, land a software job!!
+
 
 ---
 
